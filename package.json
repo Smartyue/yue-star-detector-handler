@@ -1,0 +1,17 @@
+{
+  "name": "yue-star-detector-handler",
+  "version": "0.0.1",
+  "description": "node.js handler for star-detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "star-detector"
+  ],
+  "author": "Yue.",
+  "license": "ISC",
+  "dependencies": {
+    "yue-http-util": "^1.0.2"
+  }
+}
